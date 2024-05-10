@@ -24,10 +24,3 @@ Check out my code!
 https://github.com/ingamedeo/SSHDemo.git
 ```
 
-License
-----
-
-DWTFYW (Explanation below)
-
-
-###### Do What the Fuck You Want
